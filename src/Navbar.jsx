@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-
+//this is my first commit to the newsapp repo through cloned id.
 export default function Navbar() {
   return (
     <nav
